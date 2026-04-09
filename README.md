@@ -717,9 +717,7 @@ git push origin feature/new-attack-technique
 
 ### 社区
 
-- 💬 **讨论**：[GitHub Discussions](https://github.com/y0xShe/hacker-skill/discussions)
-- 🐛 **问题**：[GitHub Issues](https://github.com/y0xShe/hacker-skill/issues)
-- 📧 **邮箱**：security@example.com
+0xShe网络安全导航：sbbbb.cn
 
 ### 保持更新
 
